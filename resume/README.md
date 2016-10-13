@@ -1,25 +1,25 @@
 <h1>Personalia</h1>
     
-    Boone Robin
+Boone Robin
     
-    koning albertlaan 183
-    9080 lochristi
+koning albertlaan 183
+9080 lochristi
     
-    geboortedatum: 05/10/1996
+geboortedatum: 05/10/1996
     
-    geslacht: man
+geslacht: man
     
-    nationaliteit: belg
+nationaliteit: belg
     
-    burgerlijke staat: ongehuwd
+burgerlijke staat: ongehuwd
     
-    tel.: 0472071013
+tel.: 0472071013
     
-    e-mail: robiboon@student.arteveldehs.be
+e-mail: robiboon@student.arteveldehs.be
     
-    website: Nvt.
+website: Nvt.
     
-    social media: facebook</div>
+social media: facebook
     
 <h1>opleidingen</h1>
  
