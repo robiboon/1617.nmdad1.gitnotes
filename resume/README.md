@@ -1,6 +1,6 @@
 <h1>Personalia</h1>
     
-    <div style="border-width:2px; background-color: cyan">Boone Robin
+    <h3>Boone Robin</h3>
     
     koning albertlaan 183
     9080 lochristi
