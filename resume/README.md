@@ -15,37 +15,37 @@ Social media: facebook<br>
     
 <h1>opleidingen</h1>
  
-    secundair aso 
-    moderne talen - wetenschappen
+secundair aso <br>
+moderne talen - wetenschappen<br>
     
 <h1>werkervaring</h1>
     
-    Volvo Logistics als order picker
+Volvo Logistics als order picker<br>
     
 <h1>workshops/cursussen</h1>
 
-    geen
+geen<br>
     
 <h1>nevenactiviteit(en)</h1>
 
-    geen
+geen<br>
     
 <h1>computerkennis</h1>
 
-    software: adobe cc, microsoft office
-    webtechnologie: html, css, javascript
-    favoriete websites en apps: 9gag, youtube, facebook
+software: adobe cc, microsoft office<br>
+webtechnologie: html, css, javascript<br>
+favoriete websites en apps: 9gag, youtube, facebook<br>
     
 <h1>talenkennis</h1>
 
-    matig frans
-    goed duits
-    goed engels
-    moedertaal nederlands
+matig frans<br>
+goed duits<br>
+goed engels<br>
+moedertaal nederlands<br>
     
 <h1>overige</h1>
     
-    hobby's: tekenen, gaming, inline skating
+hobby's: tekenen, gaming, inline skating<br>
     
 <h1>foto </h1>
     
