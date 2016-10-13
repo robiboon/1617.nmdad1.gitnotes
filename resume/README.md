@@ -1,6 +1,6 @@
-Personalia
+<h1>Personalia</h1>
     
-    Boone Robin
+    <div style="border-width:2px; background-color: cyan">Boone Robin
     
     koning albertlaan 183
     9080 lochristi
@@ -19,7 +19,7 @@ Personalia
     
     website: Nvt.
     
-    social media: facebook
+    social media: facebook</div>
     
 opleidingen
  
