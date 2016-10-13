@@ -1,21 +1,21 @@
 <h1>Personalia</h1>
     
 Boone Robin<br>
-Adres:<br>
+<strong>Adres:</strong><br>
 Koning Albertlaan 183<br>
 9080 Lochristi<br>
-Geboortedatum: 05/10/1996<br>
-Geslacht: man<br>
-Nationaliteit: belg<br>
-Burgerlijke staat: ongehuwd<br>
-tel.: 0472071013<br>
-e-mail: robiboon@student.arteveldehs.be<br>
-Website: Nvt.<br>
-Social media: facebook<br>
+<strong>Geboortedatum:</strong> 05/10/1996<br>
+<strong>Geslacht:</strong> man<br>
+<strong>Nationaliteit:</strong> belg<br>
+<strong>Burgerlijke staat:</strong> ongehuwd<br>
+<strong>tel.:</strong> 0472071013<br>
+<strong>e-mail:</strong> robiboon@student.arteveldehs.be<br>
+<strong>Website:</strong> Nvt.<br>
+<strong>Social media:</strong> facebook<br>
     
 <h1>opleidingen</h1>
  
-secundair aso <br>
+<strong>secundair aso</strong><br>
 moderne talen - wetenschappen<br>
     
 <h1>werkervaring</h1>
@@ -32,9 +32,9 @@ geen<br>
     
 <h1>computerkennis</h1>
 
-software: adobe cc, microsoft office<br>
-webtechnologie: html, css, javascript<br>
-favoriete websites en apps: 9gag, youtube, facebook<br>
+<strong>software:</strong> adobe cc, microsoft office<br>
+<strong>webtechnologie:</strong> html, css, javascript<br>
+<strong>favoriete websites en apps:</strong> 9gag, youtube, facebook<br>
     
 <h1>talenkennis</h1>
 
@@ -45,7 +45,7 @@ moedertaal nederlands<br>
     
 <h1>overige</h1>
     
-hobby's: tekenen, gaming, inline skating<br>
+<strong>hobby's:</strong> tekenen, gaming, inline skating<br>
     
 <h1>foto </h1>
     
