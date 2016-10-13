@@ -1,6 +1,6 @@
 <h1>Personalia</h1>
     
-    <h3>Boone Robin</h3>
+    Boone Robin
     
     koning albertlaan 183
     9080 lochristi
@@ -21,40 +21,40 @@
     
     social media: facebook</div>
     
-opleidingen
+<h1>opleidingen</h1>
  
     secundair aso 
     moderne talen - wetenschappen
     
-werkervaring
+<h1>werkervaring</h1>
     
     Volvo Logistics als order picker
     
-workshops/cursussen
+<h1>workshops/cursussen</h1>
 
     geen
     
-nevenactiviteit(en)
+<h1>nevenactiviteit(en)</h1>
 
     geen
     
-computerkennis
+<h1>computerkennis</h1>
 
     software: adobe cc, microsoft office
     webtechnologie: html, css, javascript
     favoriete websites en apps: 9gag, youtube, facebook
     
-talenkennis
+<h1>talenkennis</h1>
 
     matig frans
     goed duits
     goed engels
     moedertaal nederlands
     
-overige
+<h1>overige</h1>
     
     hobby's: tekenen, gaming, inline skating
     
-foto 
+<h1>foto </h1>
     
     https://scontent-bru2-1.xx.fbcdn.net/v/t1.0-9/12472602_1304275966265670_7312576593038309769_n.jpg?oh=c3f529c7b16c03256fb3aad44c62ec57&oe=58642DB5
