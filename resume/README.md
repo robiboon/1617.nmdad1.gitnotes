@@ -1,17 +1,17 @@
 <h1>Personalia</h1>
     
-Boone Robin
-Adres:
-Koning Albertlaan 183
-9080 Lochristi
-Geboortedatum: 05/10/1996
-Geslacht: man
-Nationaliteit: belg
-Burgerlijke staat: ongehuwd
-tel.: 0472071013
-e-mail: robiboon@student.arteveldehs.be
-Website: Nvt.
-Social media: facebook
+Boone Robin<br>
+Adres:<br>
+Koning Albertlaan 183<br>
+9080 Lochristi<br>
+Geboortedatum: 05/10/1996<br>
+Geslacht: man<br>
+Nationaliteit: belg<br>
+Burgerlijke staat: ongehuwd<br>
+tel.: 0472071013<br>
+e-mail: robiboon@student.arteveldehs.be<br>
+Website: Nvt.<br>
+Social media: facebook<br>
     
 <h1>opleidingen</h1>
  
